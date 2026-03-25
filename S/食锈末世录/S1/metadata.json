@@ -1,0 +1,29 @@
+{
+  "name_cn": "食锈末世录",
+  "letter": "S",
+  "sub_groups": [
+    "DMG",
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "sc",
+    "tc"
+  ],
+  "season": "S1",
+  "episode_count": 12,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[DMG&VCB-Studio] Sabikui Bisco S1.zip",
+      "size_bytes": 8104465,
+      "file_count": 24,
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    }
+  ]
+}

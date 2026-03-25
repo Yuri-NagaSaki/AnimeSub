@@ -1,0 +1,28 @@
+{
+  "name_cn": "胆大党",
+  "letter": "D",
+  "sub_groups": [
+    "Nekomoe kissaten"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "JPSC",
+    "JPTC"
+  ],
+  "season": "S1",
+  "episode_count": 12,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Nekomoe kissaten] Dandadan S1.zip",
+      "size_bytes": 15587157,
+      "file_count": 24,
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    }
+  ]
+}

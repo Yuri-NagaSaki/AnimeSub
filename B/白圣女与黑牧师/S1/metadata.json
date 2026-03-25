@@ -1,0 +1,29 @@
+{
+  "name_cn": "白圣女与黑牧师",
+  "letter": "B",
+  "sub_groups": [
+    "DMG",
+    "LoliHouse"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "chs",
+    "cht"
+  ],
+  "season": "S1",
+  "episode_count": 24,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[DMG&LoliHouse] Shiro Seijo to Kuro Bokushi S1.zip",
+      "size_bytes": 11988188,
+      "file_count": 24,
+      "languages": [
+        "chs",
+        "cht"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name_cn": "黑暗集会",
+  "letter": "H",
+  "sub_groups": [
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "zh-Hans"
+  ],
+  "season": "S1",
+  "episode_count": 25,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[VCB-Studio] Dark Gathering S1.zip",
+      "size_bytes": 9772423,
+      "file_count": 25,
+      "languages": [
+        "zh-Hans"
+      ]
+    }
+  ]
+}

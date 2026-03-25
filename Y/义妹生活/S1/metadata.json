@@ -1,0 +1,28 @@
+{
+  "name_cn": "义妹生活",
+  "letter": "Y",
+  "sub_groups": [
+    "Haruhana"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "chs_jpn",
+    "cht_jpn"
+  ],
+  "season": "S1",
+  "episode_count": 12,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Haruhana] Gimai Seikatsu S1.zip",
+      "size_bytes": 15289318,
+      "file_count": 24,
+      "languages": [
+        "chs_jpn",
+        "cht_jpn"
+      ]
+    }
+  ]
+}

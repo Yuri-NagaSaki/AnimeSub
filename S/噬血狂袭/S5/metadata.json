@@ -1,0 +1,22 @@
+{
+  "name_cn": "噬血狂袭",
+  "letter": "S",
+  "sub_groups": [
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [],
+  "season": "S5",
+  "episode_count": 4,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[VCB-Studio] Strike the Blood Final S5.zip",
+      "size_bytes": 1652578,
+      "file_count": 4,
+      "languages": []
+    }
+  ]
+}

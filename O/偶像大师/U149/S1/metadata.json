@@ -1,0 +1,28 @@
+{
+  "name_cn": "偶像大师",
+  "letter": "O",
+  "sub_groups": [
+    "Nekomoe kissaten"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "JPSC",
+    "JPTC"
+  ],
+  "season": "S1",
+  "episode_count": 13,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Nekomoe kissaten] THE IDOLM@STER CINDERELLA GIRLS U149 S1.zip",
+      "size_bytes": 21997205,
+      "file_count": 26,
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    }
+  ]
+}

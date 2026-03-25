@@ -1,0 +1,29 @@
+{
+  "name_cn": "魔法科高中的劣等生",
+  "letter": "M",
+  "sub_groups": [
+    "DMG",
+    "SumiSora"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "sc",
+    "tc"
+  ],
+  "season": "S3",
+  "episode_count": 13,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[DMG&SumiSora] Mahouka Koukou no Rettousei S3.zip",
+      "size_bytes": 11384827,
+      "file_count": 26,
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    }
+  ]
+}

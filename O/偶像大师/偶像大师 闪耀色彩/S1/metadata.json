@@ -1,0 +1,28 @@
+{
+  "name_cn": "偶像大师",
+  "letter": "O",
+  "sub_groups": [
+    "KitaujiSub"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "chs_jp",
+    "cht_jp"
+  ],
+  "season": "S1",
+  "episode_count": 12,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[KitaujiSub] THE IDOLM@STER SHINY COLORS S1.zip",
+      "size_bytes": 27455069,
+      "file_count": 24,
+      "languages": [
+        "chs_jp",
+        "cht_jp"
+      ]
+    }
+  ]
+}

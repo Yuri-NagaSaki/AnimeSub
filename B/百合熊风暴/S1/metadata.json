@@ -1,0 +1,28 @@
+{
+  "name_cn": "百合熊风暴",
+  "letter": "B",
+  "sub_groups": [
+    "FLsnow"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "chs",
+    "cht"
+  ],
+  "season": "S1",
+  "episode_count": 13,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[FLsnow] Yurikuma Arashi S1.zip",
+      "size_bytes": 11270775,
+      "file_count": 26,
+      "languages": [
+        "chs",
+        "cht"
+      ]
+    }
+  ]
+}

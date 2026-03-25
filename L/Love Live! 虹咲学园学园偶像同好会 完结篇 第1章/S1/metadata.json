@@ -1,0 +1,29 @@
+{
+  "name_cn": "Love Live! 虹咲学园学园偶像同好会 完结篇 第1章",
+  "letter": "L",
+  "sub_groups": [
+    "Nekomoe kissaten",
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "JPSC",
+    "JPTC"
+  ],
+  "season": "S1",
+  "episode_count": 2,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Nekomoe kissaten&VCB-Studio] Love Live! Nijigasaki Movie Kanketsu-hen S1.zip",
+      "size_bytes": 2175358,
+      "file_count": 2,
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    }
+  ]
+}

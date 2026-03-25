@@ -1,0 +1,28 @@
+{
+  "name_cn": "魔法使的新娘",
+  "letter": "M",
+  "sub_groups": [
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "zh-hans",
+    "zh-hant"
+  ],
+  "season": "SPs",
+  "episode_count": 1,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[VCB-Studio] Mahou Tsukai no Yome SPs.zip",
+      "size_bytes": 450906,
+      "file_count": 2,
+      "languages": [
+        "zh-hans",
+        "zh-hant"
+      ]
+    }
+  ]
+}

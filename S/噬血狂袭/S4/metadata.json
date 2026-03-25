@@ -1,0 +1,22 @@
+{
+  "name_cn": "噬血狂袭",
+  "letter": "S",
+  "sub_groups": [
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [],
+  "season": "S4",
+  "episode_count": 12,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[VCB-Studio] Strike the Blood IV S4.zip",
+      "size_bytes": 4669014,
+      "file_count": 12,
+      "languages": []
+    }
+  ]
+}

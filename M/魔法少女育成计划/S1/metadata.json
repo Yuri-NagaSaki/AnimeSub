@@ -1,0 +1,22 @@
+{
+  "name_cn": "魔法少女育成计划",
+  "letter": "M",
+  "sub_groups": [
+    "ReinForce"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [],
+  "season": "S1",
+  "episode_count": 12,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[ReinForce] Mahou Shoujo Ikusei Keikaku S1.zip",
+      "size_bytes": 136317,
+      "file_count": 12,
+      "languages": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name_cn": "鬼灭之刃",
+  "letter": "G",
+  "sub_groups": [
+    "BeanSub",
+    "FZSD",
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "sc",
+    "tc"
+  ],
+  "season": "movie",
+  "episode_count": 2,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[BeanSub&FZSD&VCB-Studio] Gekijouban Kimetsu no Yaiba Mugen Ressha Hen movie.zip",
+      "size_bytes": 1057090,
+      "file_count": 2,
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    }
+  ]
+}

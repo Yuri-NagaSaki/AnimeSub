@@ -1,0 +1,28 @@
+{
+  "name_cn": "蓝箱",
+  "letter": "L",
+  "sub_groups": [
+    "KitaujiSub"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "chs_jp",
+    "cht_jp"
+  ],
+  "season": "S1",
+  "episode_count": 24,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[KitaujiSub] Ao no Hako S1.zip",
+      "size_bytes": 34999079,
+      "file_count": 48,
+      "languages": [
+        "chs_jp",
+        "cht_jp"
+      ]
+    }
+  ]
+}

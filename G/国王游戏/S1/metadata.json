@@ -1,0 +1,22 @@
+{
+  "name_cn": "国王游戏",
+  "letter": "G",
+  "sub_groups": [
+    "Unknown"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [],
+  "season": "S1",
+  "episode_count": 12,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Unknown] 国王游戏 S1.zip",
+      "size_bytes": 6294135,
+      "file_count": 12,
+      "languages": []
+    }
+  ]
+}

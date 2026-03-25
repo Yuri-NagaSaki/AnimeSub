@@ -1,0 +1,22 @@
+{
+  "name_cn": "噬血狂袭",
+  "letter": "S",
+  "sub_groups": [
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [],
+  "season": "S2",
+  "episode_count": 8,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[VCB-Studio] Strike the Blood II S2.zip",
+      "size_bytes": 2814567,
+      "file_count": 8,
+      "languages": []
+    }
+  ]
+}

@@ -1,0 +1,1003 @@
+{
+  "generated_at": "2026-03-25T08:24:21.955051+00:00",
+  "total_anime": 63,
+  "total_archives": 84,
+  "entries": [
+    {
+      "name_cn": "BanG Dream! Ave Mujica",
+      "letter": "B",
+      "path": "B/BanG Dream! Ave Mujica",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "CoolFansSub"
+      ],
+      "languages": [
+        "chs",
+        "cht"
+      ]
+    },
+    {
+      "name_cn": "拜托请穿上，鹰峰同学",
+      "letter": "B",
+      "path": "B/拜托请穿上，鹰峰同学",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Sakurato"
+      ],
+      "languages": []
+    },
+    {
+      "name_cn": "比宇宙更远的地方",
+      "letter": "B",
+      "path": "B/比宇宙更远的地方",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "DHR",
+        "MakariHoshiyume",
+        "VCB-Studio"
+      ],
+      "languages": [
+        "chs"
+      ]
+    },
+    {
+      "name_cn": "白圣女与黑牧师",
+      "letter": "B",
+      "path": "B/白圣女与黑牧师",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "DMG",
+        "LoliHouse"
+      ],
+      "languages": [
+        "chs",
+        "cht"
+      ]
+    },
+    {
+      "name_cn": "百合熊风暴",
+      "letter": "B",
+      "path": "B/百合熊风暴",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "FLsnow"
+      ],
+      "languages": [
+        "chs",
+        "cht"
+      ]
+    },
+    {
+      "name_cn": "败犬女主太多了！",
+      "letter": "B",
+      "path": "B/败犬女主太多了！",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Nekomoe kissaten"
+      ],
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    },
+    {
+      "name_cn": "吹响吧！上低音号",
+      "letter": "C",
+      "path": "C/吹响吧！上低音号",
+      "seasons": [
+        "S1",
+        "S3"
+      ],
+      "sub_groups": [
+        "Airota",
+        "Haruhana",
+        "KitaujiSub",
+        "VCB-Studio"
+      ],
+      "languages": [
+        "chs_jpn",
+        "cht_jpn",
+        "sc",
+        "tc"
+      ],
+      "sub_entries": [
+        "吹响吧！上低音号",
+        "利兹与青鸟",
+        "吹响吧！上低音号～合奏比赛篇～"
+      ]
+    },
+    {
+      "name_cn": "超超超超超喜欢你的100个女朋友",
+      "letter": "C",
+      "path": "C/超超超超超喜欢你的100个女朋友",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Airota",
+        "LoliHouse",
+        "Nekomoe kissaten"
+      ],
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    },
+    {
+      "name_cn": "单间、光照尚好、附带天使。",
+      "letter": "D",
+      "path": "D/单间、光照尚好、附带天使。",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "LoliHouse",
+        "Nekomoe kissaten"
+      ],
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    },
+    {
+      "name_cn": "胆大党",
+      "letter": "D",
+      "path": "D/胆大党",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Nekomoe kissaten"
+      ],
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    },
+    {
+      "name_cn": "反派千金等级99～我是隐藏头目但不是魔王～",
+      "letter": "F",
+      "path": "F/反派千金等级99～我是隐藏头目但不是魔王～",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Nekomoe kissaten"
+      ],
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    },
+    {
+      "name_cn": "公主大人，接下来是“拷问”时间",
+      "letter": "G",
+      "path": "G/公主大人，接下来是“拷问”时间",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "FZSD"
+      ],
+      "languages": [
+        "chs",
+        "cht"
+      ]
+    },
+    {
+      "name_cn": "哥布林杀手",
+      "letter": "G",
+      "path": "G/哥布林杀手",
+      "seasons": [
+        "S2"
+      ],
+      "sub_groups": [
+        "DMG",
+        "LoliHouse"
+      ],
+      "languages": [
+        "SC",
+        "TC"
+      ]
+    },
+    {
+      "name_cn": "国王游戏",
+      "letter": "G",
+      "path": "G/国王游戏",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Unknown"
+      ],
+      "languages": []
+    },
+    {
+      "name_cn": "孤独摇滚",
+      "letter": "G",
+      "path": "G/孤独摇滚",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Airota",
+        "VCB-Studio"
+      ],
+      "languages": [
+        "CHS",
+        "CHT"
+      ]
+    },
+    {
+      "name_cn": "怪人的沙拉碗",
+      "letter": "G",
+      "path": "G/怪人的沙拉碗",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "LoliHouse",
+        "Nekomoe kissaten"
+      ],
+      "languages": [
+        "SC",
+        "TC"
+      ]
+    },
+    {
+      "name_cn": "鬼灭之刃",
+      "letter": "G",
+      "path": "G/鬼灭之刃",
+      "seasons": [
+        "S5",
+        "movie"
+      ],
+      "sub_groups": [
+        "BeanSub",
+        "FZSD",
+        "LoliHouse",
+        "VCB-Studio"
+      ],
+      "languages": [
+        "SC",
+        "TC",
+        "sc",
+        "tc"
+      ]
+    },
+    {
+      "name_cn": "欢迎来到实力至上主义的教室",
+      "letter": "H",
+      "path": "H/欢迎来到实力至上主义的教室",
+      "seasons": [
+        "S3"
+      ],
+      "sub_groups": [
+        "Sakurato"
+      ],
+      "languages": []
+    },
+    {
+      "name_cn": "黑暗集会",
+      "letter": "H",
+      "path": "H/黑暗集会",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "VCB-Studio"
+      ],
+      "languages": [
+        "zh-Hans"
+      ]
+    },
+    {
+      "name_cn": "僵尸100～在成为僵尸前要做的100件事～",
+      "letter": "J",
+      "path": "J/僵尸100～在成为僵尸前要做的100件事～",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Nekomoe kissaten"
+      ],
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    },
+    {
+      "name_cn": "记忆缝线",
+      "letter": "J",
+      "path": "J/记忆缝线",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Nekomoe kissaten"
+      ],
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    },
+    {
+      "name_cn": "酷爱电影的庞波小姐",
+      "letter": "K",
+      "path": "K/酷爱电影的庞波小姐",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "DMG",
+        "VCB-Studio"
+      ],
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    },
+    {
+      "name_cn": "Love Live! 虹咲学园学园偶像同好会 完结篇 第1章",
+      "letter": "L",
+      "path": "L/Love Live! 虹咲学园学园偶像同好会 完结篇 第1章",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Nekomoe kissaten",
+        "VCB-Studio"
+      ],
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    },
+    {
+      "name_cn": "狼与香辛料 行商邂逅贤狼",
+      "letter": "L",
+      "path": "L/狼与香辛料 行商邂逅贤狼",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Airota",
+        "CASO",
+        "LoliHouse"
+      ],
+      "languages": [
+        "CHS",
+        "CHT"
+      ]
+    },
+    {
+      "name_cn": "莉可丽丝",
+      "letter": "L",
+      "path": "L/莉可丽丝",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Billion Meta Lab",
+        "DMG",
+        "LoliHouse"
+      ],
+      "languages": [
+        "SC",
+        "TC",
+        "chs",
+        "cht"
+      ]
+    },
+    {
+      "name_cn": "蓝箱",
+      "letter": "L",
+      "path": "L/蓝箱",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "KitaujiSub"
+      ],
+      "languages": []
+    },
+    {
+      "name_cn": "鹿乃子乃子虎视眈眈",
+      "letter": "L",
+      "path": "L/鹿乃子乃子虎视眈眈",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "LoliHouse",
+        "Nekomoe kissaten"
+      ],
+      "languages": [
+        "SC",
+        "TC"
+      ]
+    },
+    {
+      "name_cn": "末日列车去哪里",
+      "letter": "M",
+      "path": "M/末日列车去哪里",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "LoliHouse",
+        "Nekomoe kissaten"
+      ],
+      "languages": [
+        "SC",
+        "TC"
+      ]
+    },
+    {
+      "name_cn": "秒杀外挂太强了，异世界的家伙们根本就不是对手。",
+      "letter": "M",
+      "path": "M/秒杀外挂太强了，异世界的家伙们根本就不是对手。",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "VCB-Studio"
+      ],
+      "languages": []
+    },
+    {
+      "name_cn": "迷宫饭",
+      "letter": "M",
+      "path": "M/迷宫饭",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "LoliHouse",
+        "Nekomoe kissaten"
+      ],
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    },
+    {
+      "name_cn": "魔法使的新娘",
+      "letter": "M",
+      "path": "M/魔法使的新娘",
+      "seasons": [
+        "S1",
+        "S2",
+        "SPs"
+      ],
+      "sub_groups": [
+        "DMG",
+        "VCB-Studio"
+      ],
+      "languages": [
+        "zh-hans",
+        "zh-hant"
+      ],
+      "sub_entries": [
+        "魔法使的新娘 等待繁星之人",
+        "魔法使的新娘 西之少年与青岚的骑士"
+      ]
+    },
+    {
+      "name_cn": "魔法少女与邪恶曾经敌对",
+      "letter": "M",
+      "path": "M/魔法少女与邪恶曾经敌对",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "KitaujiSub"
+      ],
+      "languages": []
+    },
+    {
+      "name_cn": "魔法少女育成计划",
+      "letter": "M",
+      "path": "M/魔法少女育成计划",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "ReinForce"
+      ],
+      "languages": []
+    },
+    {
+      "name_cn": "魔法科高中的劣等生",
+      "letter": "M",
+      "path": "M/魔法科高中的劣等生",
+      "seasons": [
+        "S3"
+      ],
+      "sub_groups": [
+        "DMG",
+        "SumiSora"
+      ],
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    },
+    {
+      "name_cn": "偶像大师",
+      "letter": "O",
+      "path": "O/偶像大师",
+      "seasons": [
+        "S1",
+        "S2"
+      ],
+      "sub_groups": [
+        "KitaujiSub",
+        "Nekomoe kissaten"
+      ],
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ],
+      "sub_entries": [
+        "偶像大师 闪耀色彩",
+        "U149"
+      ]
+    },
+    {
+      "name_cn": "前辈是伪娘 雨过天晴",
+      "letter": "Q",
+      "path": "Q/前辈是伪娘 雨过天晴",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "MingY"
+      ],
+      "languages": [
+        "SC",
+        "TC"
+      ]
+    },
+    {
+      "name_cn": "契约之吻",
+      "letter": "Q",
+      "path": "Q/契约之吻",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "AI-Raws",
+        "DMG",
+        "Kisssub",
+        "SumiSora",
+        "VCB-Studio"
+      ],
+      "languages": [
+        "jpsc",
+        "jptc",
+        "sc",
+        "tc"
+      ]
+    },
+    {
+      "name_cn": "日本沉没 2020",
+      "letter": "R",
+      "path": "R/日本沉没 2020",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Nekomoe kissaten",
+        "VCB-Studio"
+      ],
+      "languages": [
+        "SC",
+        "TC"
+      ]
+    },
+    {
+      "name_cn": "若能与你共乘海浪之上",
+      "letter": "R",
+      "path": "R/若能与你共乘海浪之上",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Nekomoe kissaten",
+        "VCB-Studio"
+      ],
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    },
+    {
+      "name_cn": "噬血狂袭",
+      "letter": "S",
+      "path": "S/噬血狂袭",
+      "seasons": [
+        "S0",
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "sub_groups": [
+        "VCB-Studio"
+      ],
+      "languages": []
+    },
+    {
+      "name_cn": "声优广播的幕前幕后",
+      "letter": "S",
+      "path": "S/声优广播的幕前幕后",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Nekomoe kissaten"
+      ],
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    },
+    {
+      "name_cn": "死神少爷与黑女仆",
+      "letter": "S",
+      "path": "S/死神少爷与黑女仆",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Nekomoe kissaten",
+        "VCB-Studio"
+      ],
+      "languages": [
+        "SC",
+        "TC"
+      ]
+    },
+    {
+      "name_cn": "身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱",
+      "letter": "S",
+      "path": "S/身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "LoliHouse",
+        "Nekomoe kissaten"
+      ],
+      "languages": [
+        "SC",
+        "TC"
+      ]
+    },
+    {
+      "name_cn": "食锈末世录",
+      "letter": "S",
+      "path": "S/食锈末世录",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "DMG",
+        "VCB-Studio"
+      ],
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    },
+    {
+      "name_cn": "为美好的世界献上祝福",
+      "letter": "W",
+      "path": "W/为美好的世界献上祝福",
+      "seasons": [
+        "Movie",
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "sub_groups": [
+        "Airota",
+        "FZSD",
+        "KissSub",
+        "LoliHouse",
+        "Sakurato.Sub",
+        "Xrip"
+      ],
+      "languages": [
+        "sc"
+      ]
+    },
+    {
+      "name_cn": "我和班上最讨厌的女生结婚了",
+      "letter": "W",
+      "path": "W/我和班上最讨厌的女生结婚了",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Sakurato.Sub"
+      ],
+      "languages": []
+    },
+    {
+      "name_cn": "我推的孩子",
+      "letter": "W",
+      "path": "W/我推的孩子",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "H-BBR",
+        "KitaujiSub",
+        "STYHSub"
+      ],
+      "languages": []
+    },
+    {
+      "name_cn": "我独自升级",
+      "letter": "W",
+      "path": "W/我独自升级",
+      "seasons": [
+        "S2"
+      ],
+      "sub_groups": [
+        "Max-Raw"
+      ],
+      "languages": []
+    },
+    {
+      "name_cn": "我的幸福婚约",
+      "letter": "W",
+      "path": "W/我的幸福婚约",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Haruhana"
+      ],
+      "languages": [
+        "chs_jpn",
+        "cht_jpn"
+      ]
+    },
+    {
+      "name_cn": "无名记忆",
+      "letter": "W",
+      "path": "W/无名记忆",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "LoliHouse",
+        "Nekomoe kissaten"
+      ],
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    },
+    {
+      "name_cn": "无职转生 ～到了异世界就拿出真本事",
+      "letter": "W",
+      "path": "W/无职转生 ～到了异世界就拿出真本事",
+      "seasons": [
+        "S2"
+      ],
+      "sub_groups": [
+        "Nekomoe kissaten",
+        "VCB-Studio"
+      ],
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    },
+    {
+      "name_cn": "蔚蓝档案",
+      "letter": "W",
+      "path": "W/蔚蓝档案",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "LoliHouse",
+        "Nekomoe kissaten"
+      ],
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    },
+    {
+      "name_cn": "小市民系列",
+      "letter": "X",
+      "path": "X/小市民系列",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "MingY"
+      ],
+      "languages": [
+        "CHS_JPN",
+        "CHT_JPN"
+      ]
+    },
+    {
+      "name_cn": "义妹生活",
+      "letter": "Y",
+      "path": "Y/义妹生活",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Haruhana"
+      ],
+      "languages": [
+        "chs_jpn",
+        "cht_jpn"
+      ]
+    },
+    {
+      "name_cn": "亚托莉 -我挚爱的时光-",
+      "letter": "Y",
+      "path": "Y/亚托莉 -我挚爱的时光-",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Nekomoe kissaten"
+      ],
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    },
+    {
+      "name_cn": "夜晚水母不会游泳",
+      "letter": "Y",
+      "path": "Y/夜晚水母不会游泳",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "LoliHouse",
+        "Nekomoe kissaten"
+      ],
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    },
+    {
+      "name_cn": "夜樱家大作战",
+      "letter": "Y",
+      "path": "Y/夜樱家大作战",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Unknown"
+      ],
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    },
+    {
+      "name_cn": "摇曳露营",
+      "letter": "Y",
+      "path": "Y/摇曳露营",
+      "seasons": [
+        "S3"
+      ],
+      "sub_groups": [
+        "Airota",
+        "LoliHouse"
+      ],
+      "languages": [
+        "chs",
+        "cht"
+      ]
+    },
+    {
+      "name_cn": "约会大作战",
+      "letter": "Y",
+      "path": "Y/约会大作战",
+      "seasons": [
+        "S5"
+      ],
+      "sub_groups": [
+        "Moozzi2"
+      ],
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    },
+    {
+      "name_cn": "言语如苏打般涌现",
+      "letter": "Y",
+      "path": "Y/言语如苏打般涌现",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Nekomoe kissaten",
+        "VCB-Studio"
+      ],
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    },
+    {
+      "name_cn": "终末的火车前往何方",
+      "letter": "Z",
+      "path": "Z/终末的火车前往何方",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "LoliHouse",
+        "Nekomoe kissaten"
+      ],
+      "languages": [
+        "SC",
+        "TC"
+      ]
+    },
+    {
+      "name_cn": "致不灭的你",
+      "letter": "Z",
+      "path": "Z/致不灭的你",
+      "seasons": [
+        "S1",
+        "S2"
+      ],
+      "sub_groups": [
+        "Airota",
+        "VCB-Studio"
+      ],
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    },
+    {
+      "name_cn": "葬送的芙莉莲",
+      "letter": "Z",
+      "path": "Z/葬送的芙莉莲",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "KitaujiSub",
+        "Nekomoe kissaten"
+      ],
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    }
+  ]
+}

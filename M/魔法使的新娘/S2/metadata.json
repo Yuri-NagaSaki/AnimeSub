@@ -1,0 +1,29 @@
+{
+  "name_cn": "魔法使的新娘",
+  "letter": "M",
+  "sub_groups": [
+    "DMG",
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "zh-hans",
+    "zh-hant"
+  ],
+  "season": "S2",
+  "episode_count": 24,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[DMG&VCB-Studio] Mahou Tsukai no Yome S2.zip",
+      "size_bytes": 18896471,
+      "file_count": 48,
+      "languages": [
+        "zh-hans",
+        "zh-hant"
+      ]
+    }
+  ]
+}
