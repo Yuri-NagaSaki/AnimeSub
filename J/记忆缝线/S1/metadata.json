@@ -1,0 +1,28 @@
+{
+  "name_cn": "记忆缝线",
+  "letter": "J",
+  "sub_groups": [
+    "Nekomoe kissaten"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "JPSC",
+    "JPTC"
+  ],
+  "season": "S1",
+  "episode_count": 13,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Nekomoe kissaten] Your Forma S1.zip",
+      "size_bytes": 23569398,
+      "file_count": 26,
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    }
+  ]
+}

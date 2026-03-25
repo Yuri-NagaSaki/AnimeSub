@@ -1,0 +1,29 @@
+{
+  "name_cn": "致不灭的你",
+  "letter": "Z",
+  "sub_groups": [
+    "Airota",
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "sc",
+    "tc"
+  ],
+  "season": "S1",
+  "episode_count": 20,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Airota&VCB-Studio] Fumetsu no Anata e S1.zip",
+      "size_bytes": 12406932,
+      "file_count": 40,
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    }
+  ]
+}

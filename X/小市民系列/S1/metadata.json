@@ -1,0 +1,28 @@
+{
+  "name_cn": "小市民系列",
+  "letter": "X",
+  "sub_groups": [
+    "MingY"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "CHS_JPN",
+    "CHT_JPN"
+  ],
+  "season": "S1",
+  "episode_count": 10,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[MingY] Shoushimin Series S1.zip",
+      "size_bytes": 25654078,
+      "file_count": 20,
+      "languages": [
+        "CHS_JPN",
+        "CHT_JPN"
+      ]
+    }
+  ]
+}

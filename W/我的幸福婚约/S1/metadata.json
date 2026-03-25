@@ -1,0 +1,28 @@
+{
+  "name_cn": "我的幸福婚约",
+  "letter": "W",
+  "sub_groups": [
+    "Haruhana"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "chs_jpn",
+    "cht_jpn"
+  ],
+  "season": "S1",
+  "episode_count": 13,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Haruhana] Watashi no Shiawase na Kekkon S1.zip",
+      "size_bytes": 13524279,
+      "file_count": 26,
+      "languages": [
+        "chs_jpn",
+        "cht_jpn"
+      ]
+    }
+  ]
+}

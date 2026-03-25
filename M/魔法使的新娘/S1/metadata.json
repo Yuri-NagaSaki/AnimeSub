@@ -1,0 +1,28 @@
+{
+  "name_cn": "魔法使的新娘",
+  "letter": "M",
+  "sub_groups": [
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "zh-hans",
+    "zh-hant"
+  ],
+  "season": "S1",
+  "episode_count": 24,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[VCB-Studio] Mahou Tsukai no Yome S1.zip",
+      "size_bytes": 20812818,
+      "file_count": 48,
+      "languages": [
+        "zh-hans",
+        "zh-hant"
+      ]
+    }
+  ]
+}

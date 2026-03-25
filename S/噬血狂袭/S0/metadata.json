@@ -1,0 +1,22 @@
+{
+  "name_cn": "噬血狂袭",
+  "letter": "S",
+  "sub_groups": [
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [],
+  "season": "S0",
+  "episode_count": 2,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[VCB-Studio] Strike the Blood Kieta Seisou Hen S0.zip",
+      "size_bytes": 1073140,
+      "file_count": 3,
+      "languages": []
+    }
+  ]
+}

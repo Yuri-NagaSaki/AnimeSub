@@ -1,0 +1,28 @@
+{
+  "name_cn": "夜樱家大作战",
+  "letter": "Y",
+  "sub_groups": [
+    "Unknown"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "sc",
+    "tc"
+  ],
+  "season": "S1",
+  "episode_count": 27,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Unknown] 夜桜さんちの大作戦 S1.zip",
+      "size_bytes": 16779972,
+      "file_count": 54,
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    }
+  ]
+}

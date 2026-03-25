@@ -1,0 +1,29 @@
+{
+  "name_cn": "吹响吧！上低音号",
+  "letter": "C",
+  "sub_groups": [
+    "Airota",
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "sc",
+    "tc"
+  ],
+  "season": "S1",
+  "episode_count": 2,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Airota&VCB-Studio] Liz to Aoi Tori S1.zip",
+      "size_bytes": 544594,
+      "file_count": 2,
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    }
+  ]
+}

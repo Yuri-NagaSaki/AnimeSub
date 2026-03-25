@@ -1,0 +1,30 @@
+{
+  "name_cn": "狼与香辛料 行商邂逅贤狼",
+  "letter": "L",
+  "sub_groups": [
+    "Airota",
+    "CASO",
+    "LoliHouse"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "CHS",
+    "CHT"
+  ],
+  "season": "S1",
+  "episode_count": 50,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[CASO&Airota&LoliHouse] Spice and Wolf S1.zip",
+      "size_bytes": 27603784,
+      "file_count": 50,
+      "languages": [
+        "CHS",
+        "CHT"
+      ]
+    }
+  ]
+}

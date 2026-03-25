@@ -1,0 +1,29 @@
+{
+  "name_cn": "无名记忆",
+  "letter": "W",
+  "sub_groups": [
+    "LoliHouse",
+    "Nekomoe kissaten"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "JPSC",
+    "JPTC"
+  ],
+  "season": "S1",
+  "episode_count": 48,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Nekomoe kissaten&LoliHouse] Unnamed Memory S1.zip",
+      "size_bytes": 29198340,
+      "file_count": 48,
+      "languages": [
+        "JPSC",
+        "JPTC"
+      ]
+    }
+  ]
+}

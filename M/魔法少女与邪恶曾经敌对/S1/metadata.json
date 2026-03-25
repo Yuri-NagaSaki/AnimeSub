@@ -1,0 +1,28 @@
+{
+  "name_cn": "魔法少女与邪恶曾经敌对",
+  "letter": "M",
+  "sub_groups": [
+    "KitaujiSub"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "chs_jp",
+    "cht_jp"
+  ],
+  "season": "S1",
+  "episode_count": 12,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[KitaujiSub] Katsute Mahou Shoujo to Aku wa Tekitai shiteita S1.zip",
+      "size_bytes": 15649443,
+      "file_count": 24,
+      "languages": [
+        "chs_jp",
+        "cht_jp"
+      ]
+    }
+  ]
+}

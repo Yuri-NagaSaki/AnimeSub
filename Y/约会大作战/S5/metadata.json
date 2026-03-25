@@ -1,0 +1,28 @@
+{
+  "name_cn": "约会大作战",
+  "letter": "Y",
+  "sub_groups": [
+    "Moozzi2"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "sc",
+    "tc"
+  ],
+  "season": "S5",
+  "episode_count": 24,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Moozzi2] Date a Live V S5.zip",
+      "size_bytes": 9968303,
+      "file_count": 24,
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    }
+  ]
+}

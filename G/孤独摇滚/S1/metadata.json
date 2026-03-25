@@ -1,0 +1,29 @@
+{
+  "name_cn": "孤独摇滚",
+  "letter": "G",
+  "sub_groups": [
+    "Airota",
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "CHS",
+    "CHT"
+  ],
+  "season": "S1",
+  "episode_count": 2,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Airota&VCB-Studio] BOCCHI THE ROCK! Re：Re： S1.zip",
+      "size_bytes": 1730995,
+      "file_count": 2,
+      "languages": [
+        "CHS",
+        "CHT"
+      ]
+    }
+  ]
+}

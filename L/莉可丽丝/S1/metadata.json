@@ -1,0 +1,41 @@
+{
+  "name_cn": "莉可丽丝",
+  "letter": "L",
+  "sub_groups": [
+    "Billion Meta Lab",
+    "DMG",
+    "LoliHouse"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "SC",
+    "TC",
+    "chs",
+    "cht"
+  ],
+  "season": "S1",
+  "episode_count": 26,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[DMG&LoliHouse] Lycoris Recoil S1.zip",
+      "size_bytes": 12537546,
+      "file_count": 26,
+      "languages": [
+        "SC",
+        "TC"
+      ]
+    },
+    {
+      "filename": "[Billion Meta Lab] Lycoris Recoil S1.zip",
+      "size_bytes": 11042845,
+      "file_count": 26,
+      "languages": [
+        "chs",
+        "cht"
+      ]
+    }
+  ]
+}

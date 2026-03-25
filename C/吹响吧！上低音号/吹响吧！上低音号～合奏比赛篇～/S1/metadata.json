@@ -1,0 +1,28 @@
+{
+  "name_cn": "吹响吧！上低音号",
+  "letter": "C",
+  "sub_groups": [
+    "Haruhana"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "chs_jpn",
+    "cht_jpn"
+  ],
+  "season": "S1",
+  "episode_count": 2,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Haruhana] Hibike! Euphonium Ensemble Contest Hen S1.zip",
+      "size_bytes": 2017081,
+      "file_count": 2,
+      "languages": [
+        "chs_jpn",
+        "cht_jpn"
+      ]
+    }
+  ]
+}

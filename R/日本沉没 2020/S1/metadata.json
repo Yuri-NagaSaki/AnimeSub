@@ -1,0 +1,29 @@
+{
+  "name_cn": "日本沉没 2020",
+  "letter": "R",
+  "sub_groups": [
+    "Nekomoe kissaten",
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "SC",
+    "TC"
+  ],
+  "season": "S1",
+  "episode_count": 10,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Nekomoe kissaten&VCB-Studio] Japan Sinks 2020 S1.zip",
+      "size_bytes": 6103479,
+      "file_count": 20,
+      "languages": [
+        "SC",
+        "TC"
+      ]
+    }
+  ]
+}

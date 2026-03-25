@@ -1,0 +1,45 @@
+{
+  "name_cn": "契约之吻",
+  "letter": "Q",
+  "sub_groups": [
+    "AI-Raws",
+    "DMG",
+    "Kisssub",
+    "SumiSora",
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "jpsc",
+    "jptc",
+    "sc",
+    "tc"
+  ],
+  "season": "S1",
+  "episode_count": 30,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[DMG&SumiSora&VCB-Studio] Engage Kiss S1.zip",
+      "size_bytes": 15879425,
+      "file_count": 26,
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    },
+    {
+      "filename": "[AI-Raws&Kisssub] Engage Kiss S1.zip",
+      "size_bytes": 21022411,
+      "file_count": 30,
+      "languages": [
+        "jpsc",
+        "jptc",
+        "sc",
+        "tc"
+      ]
+    }
+  ]
+}
