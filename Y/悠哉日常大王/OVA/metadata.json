@@ -1,0 +1,28 @@
+{
+  "name_cn": "悠哉日常大王",
+  "letter": "Y",
+  "sub_groups": [
+    "Airota&VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "sc",
+    "tc"
+  ],
+  "season": "OVA",
+  "episode_count": 2,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Airota&VCB-Studio] Non Non Biyori Nonstop [OAD].zip",
+      "size_bytes": 901052,
+      "file_count": 2,
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    }
+  ]
+}

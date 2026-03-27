@@ -1,18 +1,18 @@
 {
-  "name_cn": "蓝箱",
-  "letter": "L",
+  "name_cn": "魔女之旅",
+  "letter": "M",
   "seasons": [
     "S1"
   ],
   "total_archives": 1,
   "sub_groups": [
-    "KitaujiSub"
+    "Airota&VCB-Studio"
   ],
   "subtitle_format": [
     "ass"
   ],
   "languages": [
-    "chs_jp",
-    "cht_jp"
+    "sc",
+    "tc"
   ]
 }

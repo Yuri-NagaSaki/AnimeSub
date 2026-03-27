@@ -1,0 +1,28 @@
+{
+  "name_cn": "天使降临到了我身边!",
+  "letter": "T",
+  "sub_groups": [
+    "Airota&VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "chs",
+    "cht"
+  ],
+  "season": "OVA",
+  "episode_count": 2,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Airota&VCB-Studio] Watashi ni Tenshi ga Maiorita! [13(OVA)].zip",
+      "size_bytes": 756171,
+      "file_count": 2,
+      "languages": [
+        "chs",
+        "cht"
+      ]
+    }
+  ]
+}

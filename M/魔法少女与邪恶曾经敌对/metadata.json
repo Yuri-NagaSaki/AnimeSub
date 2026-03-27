@@ -11,5 +11,8 @@
   "subtitle_format": [
     "ass"
   ],
-  "languages": []
+  "languages": [
+    "chs_jp",
+    "cht_jp"
+  ]
 }

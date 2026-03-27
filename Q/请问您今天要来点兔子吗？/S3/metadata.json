@@ -1,0 +1,28 @@
+{
+  "name_cn": "请问您今天要来点兔子吗？",
+  "letter": "Q",
+  "sub_groups": [
+    "Airota&VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "chs",
+    "cht"
+  ],
+  "season": "S3",
+  "episode_count": 24,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Airota&VCB-Studio] Gochuumon wa Usagi Desuka？BLOOM S3.zip",
+      "size_bytes": 9690094,
+      "file_count": 24,
+      "languages": [
+        "chs",
+        "cht"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name_cn": "NEW GAME!",
+  "letter": "N",
+  "sub_groups": [
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "chs"
+  ],
+  "season": "OVA",
+  "episode_count": 1,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[VCB-Studio] NEW GAME! [OVA].zip",
+      "size_bytes": 552160,
+      "file_count": 1,
+      "languages": [
+        "chs"
+      ]
+    }
+  ]
+}

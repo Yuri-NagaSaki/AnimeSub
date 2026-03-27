@@ -1,19 +1,19 @@
 {
-  "name_cn": "偶像大师 闪耀色彩",
-  "letter": "O",
+  "name_cn": "悠哉日常大王",
+  "letter": "Y",
   "seasons": [
-    "S1",
-    "S2"
+    "OVA",
+    "S1"
   ],
   "total_archives": 2,
   "sub_groups": [
-    "KitaujiSub"
+    "Airota&VCB-Studio"
   ],
   "subtitle_format": [
     "ass"
   ],
   "languages": [
-    "chs_jp",
-    "cht_jp"
+    "sc",
+    "tc"
   ]
 }

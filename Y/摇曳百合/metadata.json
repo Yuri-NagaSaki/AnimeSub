@@ -1,5 +1,5 @@
 {
-  "name_cn": "摇曳露营",
+  "name_cn": "摇曳百合",
   "letter": "Y",
   "seasons": [
     "Movie",
@@ -9,17 +9,13 @@
   ],
   "total_archives": 5,
   "sub_groups": [
-    "Airota",
-    "Airota&Nekomoe kissaten&VCB-Studio",
-    "LoliHouse"
+    "Airota&VCB-Studio",
+    "VCB-Studio"
   ],
   "subtitle_format": [
     "ass"
   ],
   "languages": [
-    "chs",
-    "cht",
-    "sc",
-    "tc"
+    "chs"
   ]
 }

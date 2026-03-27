@@ -2,13 +2,10 @@
   "name_cn": "魔法使的新娘 西之少年与青岚的骑士",
   "letter": "M",
   "seasons": [
-    "S1",
-    "S2",
-    "SPs"
+    "S1"
   ],
-  "total_archives": 5,
+  "total_archives": 1,
   "sub_groups": [
-    "DMG",
     "VCB-Studio"
   ],
   "subtitle_format": [

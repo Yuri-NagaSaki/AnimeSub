@@ -1,0 +1,35 @@
+{
+  "name_cn": "摇曳百合",
+  "letter": "Y",
+  "sub_groups": [
+    "Airota&VCB-Studio",
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "chs"
+  ],
+  "season": "Movie",
+  "episode_count": 1,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Airota&VCB-Studio] Yuru Yuri Ten.zip",
+      "size_bytes": 396394,
+      "file_count": 1,
+      "languages": [
+        "chs"
+      ]
+    },
+    {
+      "filename": "[VCB-Studio] Yuru Yuri Nachuyachumi!.zip",
+      "size_bytes": 675375,
+      "file_count": 1,
+      "languages": [
+        "chs"
+      ]
+    }
+  ]
+}

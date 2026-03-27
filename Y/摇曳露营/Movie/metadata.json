@@ -1,0 +1,37 @@
+{
+  "name_cn": "摇曳露营",
+  "letter": "Y",
+  "sub_groups": [
+    "Airota&Nekomoe kissaten&VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "chs",
+    "cht"
+  ],
+  "season": "Movie",
+  "episode_count": 4,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Airota&Nekomoe kissaten&VCB-Studio] Yuru Camp Movie 1080p.zip",
+      "size_bytes": 1645484,
+      "file_count": 2,
+      "languages": [
+        "chs",
+        "cht"
+      ]
+    },
+    {
+      "filename": "[Airota&Nekomoe kissaten&VCB-Studio] Yuru Camp Movie 2160p.zip",
+      "size_bytes": 3291195,
+      "file_count": 4,
+      "languages": [
+        "chs",
+        "cht"
+      ]
+    }
+  ]
+}

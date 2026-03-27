@@ -1,0 +1,26 @@
+{
+  "name_cn": "摇曳百合",
+  "letter": "Y",
+  "sub_groups": [
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "chs"
+  ],
+  "season": "S3",
+  "episode_count": 12,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[VCB-Studio] Yuru Yuri S3.zip",
+      "size_bytes": 5480362,
+      "file_count": 12,
+      "languages": [
+        "chs"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name_cn": "房间露营",
+  "letter": "F",
+  "sub_groups": [
+    "Airota&Nekomoe kissaten&VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "sc",
+    "tc"
+  ],
+  "season": "SPs",
+  "episode_count": 2,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Airota&Nekomoe kissaten&VCB-Studio] Heya Camp [SP].zip",
+      "size_bytes": 330723,
+      "file_count": 2,
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    }
+  ]
+}

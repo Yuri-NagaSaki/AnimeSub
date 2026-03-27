@@ -1,0 +1,26 @@
+{
+  "name_cn": "Endro~!",
+  "letter": "E",
+  "sub_groups": [
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "chs"
+  ],
+  "season": "S1",
+  "episode_count": 12,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[VCB-Studio] Endro~! S1.zip",
+      "size_bytes": 2396287,
+      "file_count": 12,
+      "languages": [
+        "chs"
+      ]
+    }
+  ]
+}

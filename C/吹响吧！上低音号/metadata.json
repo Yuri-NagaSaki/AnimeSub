@@ -1,10 +1,7 @@
 {
   "name_cn": "吹响吧！上低音号",
   "letter": "C",
-  "seasons": [
-    "S1",
-    "S3"
-  ],
+  "seasons": [],
   "total_archives": 3,
   "sub_groups": [
     "Airota",
@@ -16,14 +13,16 @@
     "ass"
   ],
   "languages": [
+    "chs_jp",
     "chs_jpn",
+    "cht_jp",
     "cht_jpn",
     "sc",
     "tc"
   ],
   "sub_entries": [
-    "吹响吧！上低音号",
     "利兹与青鸟",
+    "吹响吧！上低音号",
     "吹响吧！上低音号～合奏比赛篇～"
   ]
 }

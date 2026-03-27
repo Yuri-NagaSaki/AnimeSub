@@ -4,16 +4,19 @@
   "seasons": [
     "S1"
   ],
-  "total_archives": 2,
+  "total_archives": 3,
   "sub_groups": [
     "KitaujiSub",
-    "Nekomoe kissaten"
+    "Nekomoe kissaten",
+    "Nekomoe kissaten&VCB-Studio"
   ],
   "subtitle_format": [
     "ass"
   ],
   "languages": [
     "JPSC",
-    "JPTC"
+    "JPTC",
+    "chs",
+    "cht"
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "name_cn": "悠哉日常大王",
+  "letter": "Y",
+  "sub_groups": [
+    "Airota&VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "sc",
+    "tc"
+  ],
+  "season": "S1",
+  "episode_count": 24,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Airota&VCB-Studio] Non Non Biyori Nonstop S1.zip",
+      "size_bytes": 11349731,
+      "file_count": 24,
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    }
+  ]
+}

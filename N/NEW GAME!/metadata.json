@@ -1,18 +1,18 @@
 {
-  "name_cn": "蓝箱",
-  "letter": "L",
+  "name_cn": "NEW GAME!",
+  "letter": "N",
   "seasons": [
+    "OVA",
     "S1"
   ],
-  "total_archives": 1,
+  "total_archives": 2,
   "sub_groups": [
-    "KitaujiSub"
+    "VCB-Studio"
   ],
   "subtitle_format": [
     "ass"
   ],
   "languages": [
-    "chs_jp",
-    "cht_jp"
+    "chs"
   ]
 }

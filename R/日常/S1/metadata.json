@@ -1,0 +1,28 @@
+{
+  "name_cn": "日常",
+  "letter": "R",
+  "sub_groups": [
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "chs",
+    "cht"
+  ],
+  "season": "S1",
+  "episode_count": 54,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[VCB-Studio] Nichijou S1.zip",
+      "size_bytes": 21495578,
+      "file_count": 54,
+      "languages": [
+        "chs",
+        "cht"
+      ]
+    }
+  ]
+}

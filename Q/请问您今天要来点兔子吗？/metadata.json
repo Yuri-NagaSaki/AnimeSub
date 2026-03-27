@@ -1,0 +1,22 @@
+{
+  "name_cn": "请问您今天要来点兔子吗？",
+  "letter": "Q",
+  "seasons": [
+    "Movie",
+    "OVA",
+    "S3"
+  ],
+  "total_archives": 4,
+  "sub_groups": [
+    "Airota",
+    "Airota&VCB-Studio",
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "chs",
+    "cht"
+  ]
+}

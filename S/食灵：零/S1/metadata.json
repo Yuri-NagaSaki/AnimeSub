@@ -1,0 +1,28 @@
+{
+  "name_cn": "食灵：零",
+  "letter": "S",
+  "sub_groups": [
+    "VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "chs",
+    "cht"
+  ],
+  "season": "S1",
+  "episode_count": 24,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[VCB-Studio] GA-REI -zero-食灵-零-喰霊-零- 10bit 720p BDRip [Fin].zip",
+      "size_bytes": 7527629,
+      "file_count": 24,
+      "languages": [
+        "chs",
+        "cht"
+      ]
+    }
+  ]
+}

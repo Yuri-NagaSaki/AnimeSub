@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-25T08:24:21.955051+00:00",
-  "total_anime": 63,
-  "total_archives": 84,
+  "generated_at": "2026-03-27T14:11:29.680563+00:00",
+  "total_anime": 76,
+  "total_archives": 113,
   "entries": [
     {
       "name_cn": "BanG Dream! Ave Mujica",
@@ -96,10 +96,7 @@
       "name_cn": "吹响吧！上低音号",
       "letter": "C",
       "path": "C/吹响吧！上低音号",
-      "seasons": [
-        "S1",
-        "S3"
-      ],
+      "seasons": [],
       "sub_groups": [
         "Airota",
         "Haruhana",
@@ -107,15 +104,31 @@
         "VCB-Studio"
       ],
       "languages": [
+        "chs_jp",
         "chs_jpn",
+        "cht_jp",
         "cht_jpn",
         "sc",
         "tc"
       ],
       "sub_entries": [
-        "吹响吧！上低音号",
         "利兹与青鸟",
+        "吹响吧！上低音号",
         "吹响吧！上低音号～合奏比赛篇～"
+      ]
+    },
+    {
+      "name_cn": "此花亭奇谭",
+      "letter": "C",
+      "path": "C/此花亭奇谭",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "VCB-Studio"
+      ],
+      "languages": [
+        "chs"
       ]
     },
     {
@@ -167,6 +180,20 @@
       ]
     },
     {
+      "name_cn": "Endro~!",
+      "letter": "E",
+      "path": "E/Endro~!",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "VCB-Studio"
+      ],
+      "languages": [
+        "chs"
+      ]
+    },
+    {
       "name_cn": "反派千金等级99～我是隐藏头目但不是魔王～",
       "letter": "F",
       "path": "F/反派千金等级99～我是隐藏头目但不是魔王～",
@@ -179,6 +206,22 @@
       "languages": [
         "JPSC",
         "JPTC"
+      ]
+    },
+    {
+      "name_cn": "房间露营",
+      "letter": "F",
+      "path": "F/房间露营",
+      "seasons": [
+        "S1",
+        "SPs"
+      ],
+      "sub_groups": [
+        "Airota&Nekomoe kissaten&VCB-Studio"
+      ],
+      "languages": [
+        "sc",
+        "tc"
       ]
     },
     {
@@ -366,6 +409,21 @@
       ]
     },
     {
+      "name_cn": "恋如雨止",
+      "letter": "L",
+      "path": "L/恋如雨止",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "UHA-WINGS&VCB-Studio"
+      ],
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    },
+    {
       "name_cn": "狼与香辛料 行商邂逅贤狼",
       "letter": "L",
       "path": "L/狼与香辛料 行商邂逅贤狼",
@@ -411,7 +469,10 @@
       "sub_groups": [
         "KitaujiSub"
       ],
-      "languages": []
+      "languages": [
+        "chs_jp",
+        "cht_jp"
+      ]
     },
     {
       "name_cn": "鹿乃子乃子虎视眈眈",
@@ -474,6 +535,21 @@
       ]
     },
     {
+      "name_cn": "魔女之旅",
+      "letter": "M",
+      "path": "M/魔女之旅",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "Airota&VCB-Studio"
+      ],
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    },
+    {
       "name_cn": "魔法使的新娘",
       "letter": "M",
       "path": "M/魔法使的新娘",
@@ -505,7 +581,10 @@
       "sub_groups": [
         "KitaujiSub"
       ],
-      "languages": []
+      "languages": [
+        "chs_jp",
+        "cht_jp"
+      ]
     },
     {
       "name_cn": "魔法少女育成计划",
@@ -536,24 +615,38 @@
       ]
     },
     {
+      "name_cn": "NEW GAME!",
+      "letter": "N",
+      "path": "N/NEW GAME!",
+      "seasons": [
+        "OVA",
+        "S1"
+      ],
+      "sub_groups": [
+        "VCB-Studio"
+      ],
+      "languages": [
+        "chs"
+      ]
+    },
+    {
       "name_cn": "偶像大师",
       "letter": "O",
       "path": "O/偶像大师",
-      "seasons": [
-        "S1",
-        "S2"
-      ],
+      "seasons": [],
       "sub_groups": [
         "KitaujiSub",
         "Nekomoe kissaten"
       ],
       "languages": [
         "JPSC",
-        "JPTC"
+        "JPTC",
+        "chs_jp",
+        "cht_jp"
       ],
       "sub_entries": [
-        "偶像大师 闪耀色彩",
-        "U149"
+        "U149",
+        "偶像大师 闪耀色彩"
       ]
     },
     {
@@ -590,6 +683,40 @@
         "jptc",
         "sc",
         "tc"
+      ]
+    },
+    {
+      "name_cn": "请问您今天要来点兔子吗？",
+      "letter": "Q",
+      "path": "Q/请问您今天要来点兔子吗？",
+      "seasons": [
+        "Movie",
+        "OVA",
+        "S3"
+      ],
+      "sub_groups": [
+        "Airota",
+        "Airota&VCB-Studio",
+        "VCB-Studio"
+      ],
+      "languages": [
+        "chs",
+        "cht"
+      ]
+    },
+    {
+      "name_cn": "日常",
+      "letter": "R",
+      "path": "R/日常",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "VCB-Studio"
+      ],
+      "languages": [
+        "chs",
+        "cht"
       ]
     },
     {
@@ -689,6 +816,21 @@
       ]
     },
     {
+      "name_cn": "食灵：零",
+      "letter": "S",
+      "path": "S/食灵：零",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "VCB-Studio"
+      ],
+      "languages": [
+        "chs",
+        "cht"
+      ]
+    },
+    {
       "name_cn": "食锈末世录",
       "letter": "S",
       "path": "S/食锈末世录",
@@ -702,6 +844,22 @@
       "languages": [
         "sc",
         "tc"
+      ]
+    },
+    {
+      "name_cn": "天使降临到了我身边!",
+      "letter": "T",
+      "path": "T/天使降临到了我身边!",
+      "seasons": [
+        "OVA",
+        "S1"
+      ],
+      "sub_groups": [
+        "Airota&VCB-Studio"
+      ],
+      "languages": [
+        "chs",
+        "cht"
       ]
     },
     {
@@ -904,19 +1062,73 @@
       ]
     },
     {
+      "name_cn": "悠哉日常大王",
+      "letter": "Y",
+      "path": "Y/悠哉日常大王",
+      "seasons": [
+        "OVA",
+        "S1"
+      ],
+      "sub_groups": [
+        "Airota&VCB-Studio"
+      ],
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    },
+    {
+      "name_cn": "摇曳百合",
+      "letter": "Y",
+      "path": "Y/摇曳百合",
+      "seasons": [
+        "Movie",
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "sub_groups": [
+        "Airota&VCB-Studio",
+        "VCB-Studio"
+      ],
+      "languages": [
+        "chs"
+      ]
+    },
+    {
+      "name_cn": "摇曳百合 夏日时光！+",
+      "letter": "Y",
+      "path": "Y/摇曳百合 夏日时光！+",
+      "seasons": [
+        "S1"
+      ],
+      "sub_groups": [
+        "VCB-Studio"
+      ],
+      "languages": [
+        "chs"
+      ]
+    },
+    {
       "name_cn": "摇曳露营",
       "letter": "Y",
       "path": "Y/摇曳露营",
       "seasons": [
+        "Movie",
+        "S1",
+        "S2",
         "S3"
       ],
       "sub_groups": [
         "Airota",
+        "Airota&Nekomoe kissaten&VCB-Studio",
         "LoliHouse"
       ],
       "languages": [
         "chs",
-        "cht"
+        "cht",
+        "sc",
+        "tc"
       ]
     },
     {
@@ -992,11 +1204,14 @@
       ],
       "sub_groups": [
         "KitaujiSub",
-        "Nekomoe kissaten"
+        "Nekomoe kissaten",
+        "Nekomoe kissaten&VCB-Studio"
       ],
       "languages": [
         "JPSC",
-        "JPTC"
+        "JPTC",
+        "chs",
+        "cht"
       ]
     }
   ]

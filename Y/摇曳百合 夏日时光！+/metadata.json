@@ -1,18 +1,17 @@
 {
-  "name_cn": "蓝箱",
-  "letter": "L",
+  "name_cn": "摇曳百合 夏日时光！+",
+  "letter": "Y",
   "seasons": [
     "S1"
   ],
   "total_archives": 1,
   "sub_groups": [
-    "KitaujiSub"
+    "VCB-Studio"
   ],
   "subtitle_format": [
     "ass"
   ],
   "languages": [
-    "chs_jp",
-    "cht_jp"
+    "chs"
   ]
 }

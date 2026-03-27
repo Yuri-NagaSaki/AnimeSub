@@ -1,0 +1,28 @@
+{
+  "name_cn": "恋如雨止",
+  "letter": "L",
+  "sub_groups": [
+    "UHA-WINGS&VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "sc",
+    "tc"
+  ],
+  "season": "S1",
+  "episode_count": 24,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[UHA-WINGS&VCB-Studio] Koi wa Ameagari no You ni S1.zip",
+      "size_bytes": 10288635,
+      "file_count": 24,
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    }
+  ]
+}

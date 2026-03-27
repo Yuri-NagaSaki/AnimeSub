@@ -1,9 +1,10 @@
 {
   "name_cn": "葬送的芙莉莲",
-  "letter": "Z",
+  "letter": "葬送的芙莉莲",
   "sub_groups": [
     "KitaujiSub",
-    "Nekomoe kissaten"
+    "Nekomoe kissaten",
+    "Nekomoe kissaten&VCB-Studio"
   ],
   "subtitle_format": [
     "ass"
@@ -11,16 +12,25 @@
   "languages": [
     "JPSC",
     "JPTC",
-    "chs_jp",
-    "cht_jp"
+    "chs",
+    "cht"
   ],
   "season": "S1",
-  "episode_count": 28,
+  "episode_count": 56,
   "has_fonts": false,
   "archives": [
     {
-      "filename": "[Nekomoe kissaten] Sousou no Frieren S1.zip",
-      "size_bytes": 45720168,
+      "filename": "[KitaujiSub] Sousou no Frieren S1.zip",
+      "size_bytes": 50250895,
+      "file_count": 56,
+      "languages": [
+        "chs",
+        "cht"
+      ]
+    },
+    {
+      "filename": "[Nekomoe kissaten&VCB-Studio] Sousou no Frieren S1.zip",
+      "size_bytes": 45025818,
       "file_count": 56,
       "languages": [
         "JPSC",
@@ -28,12 +38,12 @@
       ]
     },
     {
-      "filename": "[KitaujiSub] Sousou no Frieren S1.zip",
-      "size_bytes": 50250895,
+      "filename": "[Nekomoe kissaten] Sousou no Frieren S1.zip",
+      "size_bytes": 45720168,
       "file_count": 56,
       "languages": [
-        "chs_jp",
-        "cht_jp"
+        "JPSC",
+        "JPTC"
       ]
     }
   ]

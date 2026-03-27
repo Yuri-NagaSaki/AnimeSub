@@ -1,0 +1,28 @@
+{
+  "name_cn": "摇曳露营",
+  "letter": "Y",
+  "sub_groups": [
+    "Airota&Nekomoe kissaten&VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "chs",
+    "cht"
+  ],
+  "season": "S2",
+  "episode_count": 30,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Airota&Nekomoe kissaten&VCB-Studio] Yuru Camp Season 2.zip",
+      "size_bytes": 13189658,
+      "file_count": 30,
+      "languages": [
+        "chs",
+        "cht"
+      ]
+    }
+  ]
+}

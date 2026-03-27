@@ -2,13 +2,11 @@
   "name_cn": "利兹与青鸟",
   "letter": "C",
   "seasons": [
-    "S1",
-    "S3"
+    "S1"
   ],
-  "total_archives": 2,
+  "total_archives": 1,
   "sub_groups": [
     "Airota",
-    "KitaujiSub",
     "VCB-Studio"
   ],
   "subtitle_format": [

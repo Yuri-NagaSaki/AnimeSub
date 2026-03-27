@@ -1,10 +1,7 @@
 {
   "name_cn": "偶像大师",
   "letter": "O",
-  "seasons": [
-    "S1",
-    "S2"
-  ],
+  "seasons": [],
   "total_archives": 3,
   "sub_groups": [
     "KitaujiSub",
@@ -15,10 +12,12 @@
   ],
   "languages": [
     "JPSC",
-    "JPTC"
+    "JPTC",
+    "chs_jp",
+    "cht_jp"
   ],
   "sub_entries": [
-    "偶像大师 闪耀色彩",
-    "U149"
+    "U149",
+    "偶像大师 闪耀色彩"
   ]
 }

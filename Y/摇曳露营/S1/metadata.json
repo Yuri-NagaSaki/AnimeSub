@@ -1,0 +1,28 @@
+{
+  "name_cn": "摇曳露营",
+  "letter": "Y",
+  "sub_groups": [
+    "Airota&Nekomoe kissaten&VCB-Studio"
+  ],
+  "subtitle_format": [
+    "ass"
+  ],
+  "languages": [
+    "sc",
+    "tc"
+  ],
+  "season": "S1",
+  "episode_count": 30,
+  "has_fonts": false,
+  "archives": [
+    {
+      "filename": "[Airota&Nekomoe kissaten&VCB-Studio] Yuru Camp S1.zip",
+      "size_bytes": 12453551,
+      "file_count": 30,
+      "languages": [
+        "sc",
+        "tc"
+      ]
+    }
+  ]
+}

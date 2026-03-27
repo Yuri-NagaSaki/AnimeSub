@@ -1,19 +1,19 @@
 {
-  "name_cn": "偶像大师 闪耀色彩",
-  "letter": "O",
+  "name_cn": "房间露营",
+  "letter": "F",
   "seasons": [
     "S1",
-    "S2"
+    "SPs"
   ],
   "total_archives": 2,
   "sub_groups": [
-    "KitaujiSub"
+    "Airota&Nekomoe kissaten&VCB-Studio"
   ],
   "subtitle_format": [
     "ass"
   ],
   "languages": [
-    "chs_jp",
-    "cht_jp"
+    "sc",
+    "tc"
   ]
 }

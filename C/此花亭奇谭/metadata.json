@@ -1,18 +1,17 @@
 {
-  "name_cn": "蓝箱",
-  "letter": "L",
+  "name_cn": "此花亭奇谭",
+  "letter": "C",
   "seasons": [
     "S1"
   ],
   "total_archives": 1,
   "sub_groups": [
-    "KitaujiSub"
+    "VCB-Studio"
   ],
   "subtitle_format": [
     "ass"
   ],
   "languages": [
-    "chs_jp",
-    "cht_jp"
+    "chs"
   ]
 }
